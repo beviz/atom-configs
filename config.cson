@@ -1,0 +1,18 @@
+"*":
+  core:
+    disabledPackages: [
+      "vim-mode"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontFamily: "monaco"
+    fontSize: 13
+  "exception-reporting":
+    userId: "775c8ffa-5bbb-866a-a1be-aab41f3a2578"
+  "fuzzy-finder": {}
+  welcome:
+    showOnStartup: false
